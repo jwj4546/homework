@@ -1,0 +1,5 @@
+package com.homework.member.model.service;
+
+public class MemberServiceImpl {
+
+}

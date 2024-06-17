@@ -1,0 +1,5 @@
+package com.homework.member.model.vo.Member;
+
+public class Member {
+
+}

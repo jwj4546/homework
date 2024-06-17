@@ -1,0 +1,5 @@
+package com.homework.member.controller;
+
+public class MemberController {
+
+}

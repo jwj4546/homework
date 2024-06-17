@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: WandohopeR;
+    src:url(../fonts/WandohopeR.woff) format('font-woff');
+}
+
+@font-face {
+    font-family: WandohopeB;
+    src:url(../fonts/WandohopeB.woff) format('font-woff');
+}
